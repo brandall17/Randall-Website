@@ -21,7 +21,7 @@
 <em>Time to learn a little bit about me</em>!<br />
 <br />
 <br />
-<img src=https://user-images.githubusercontent.com/116672082/198373781-c76cfc86-270d-4352-978e-8e1c212d61af.jpeg alt="Christmas Gifts" width="400" height="300"<br />
+<img src= https://pbs.twimg.com/media/EuxFEepXUAMDnJ_?format=jpg&name=small alt="Ben Randall Headshot" width="400" height="300"<br />
   <h5> Image: Christmas Gifts and Branches of a Decorated Tree by Marco Verch at [https://www.flickr.com/photos/30478819@N08/50656940087], CC license. </h5>
 <br />
 <br />
