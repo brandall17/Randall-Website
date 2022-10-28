@@ -8,7 +8,7 @@
 <body>
 <p></p>
  <nav>
-  <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/main/README.md">The Giving Tree</a> |
+  <a href="https://github.com/brandall17/Randall-Website/edit/main/README.md">About Me</a> |
   <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/About/README.md">About Us</a> |
   <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/deliver/README.md">Sign Up Here</a> |
 </nav>
