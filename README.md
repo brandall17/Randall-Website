@@ -2,7 +2,7 @@
 # Randall Website
 <html>
 <head>
-  <title>Ben Randall Basketball Career</title>
+  <title>Barstool Career</title>
 <link href="StyleSheet.css" rel="stylesheet"> 
 </head>
 <body>
