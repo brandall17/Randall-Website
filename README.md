@@ -23,8 +23,8 @@
 <br />
 <img src= https://pbs.twimg.com/media/EuxFEepXUAMDnJ_?format=jpg&name=small alt="Ben Randall Headshot" width="200" height="250"<br />
 <br />
-<br />
-If you're interested, check out my basketball highlights <a href="https://github.com/brandall17/Randall-Website/blob/basketball/README.md"> here </a>if you haven&#39;t already, consider checking out my <a href= "https://github.com/brandall17/Randall-Website/blob/barstool/README.md"> barstool page</a> as well! </span></span><br />
+<br /> <strong>
+If you're interested, check out my basketball highlights <a href="https://github.com/brandall17/Randall-Website/blob/basketball/README.md"> here </a>if you haven&#39;t already, consider checking out my <a href= "https://github.com/brandall17/Randall-Website/blob/barstool/README.md"> barstool page</a> as well! </span></span> </strong> <br />
 <br />
 <br />
 <!--[endif]--><o:p></o:p></p>
