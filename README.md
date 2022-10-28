@@ -24,7 +24,7 @@
 <img src= https://pbs.twimg.com/media/EuxFEepXUAMDnJ_?format=jpg&name=small alt="Ben Randall Headshot" width="200" height="250"<br />
 <br />
 <br />
-The Giving Tree is a service event that the Catholic Parish of Saint Pius X Church in Granger, Indiana hosts every year. The event is put on for children whos parents can't afford to buy them Christmas gifts. In light of the holidays, parishioners are asked to volunteer and sign up to help our service make Christmas a beautiful time for the children. Check out <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/About/README.md"> the about us branch </a>if you haven&#39;t already, and don&#39;t forget to consider signing up to <a href= "https://github.com/alexiskintzele/The-Giving-Tree/blob/deliver/README.md"> help deliver</a> if you like helping the community!</span></span><br />
+If you're interested, check out my basketball highlights <a href="https://github.com/brandall17/Randall-Website/blob/basketball/README.md"> here </a>if you haven&#39;t already, consider checking out my <a href= "https://github.com/brandall17/Randall-Website/blob/barstool/README.md"> barstool page</a> as well! </span></span><br />
 <br />
 <br />
 <!--[endif]--><o:p></o:p></p>
