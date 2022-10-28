@@ -2,7 +2,7 @@
 # Randall Website
 <html>
 <head>
-  <h1>  <title>Barstool Career</title> </h1>
+  <h1>  <title>Barstool</title> </h1>
   <h2> Lets dive into my internship! </h2>
 <link href="StyleSheet.css" rel="stylesheet"> 
 </head>
@@ -13,7 +13,7 @@
   <a href="https://github.com/brandall17/Randall-Website/blob/barstool/README.md">Barstool</a> |
   <a href="https://github.com/brandall17/Randall-Website/blob/basketball/README.md">Basketball</a> |
 </nav>
-    <h1>  <title>Barstool Career</title> </h1>
+    <h1> My Personal Barstool Career </h1>
   <h2> Lets dive into my internship! </h2>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="New!" id="_x0000_i1025" src="new5.gif" /></span></span><strong><span style="font-size:36px;"><span style="font-family:courier new,courier,monospace;"></span></span></strong></p>
 <p style="text-align: center;"></p>
