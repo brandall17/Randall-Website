@@ -22,9 +22,9 @@
 <br />
 Three things I've worked on and learned about since receiving my internship with Barstool:
   <ol>
-  <li>1. Market Research</li>
-  <li>2. Digital Design</li>
-  <li>3. Internship oppotunities</li>
+  <li>Market Research</li>
+  <li>Digital Design</li>
+  <li>Internship oppotunities</li>
   </ol>
 <br />
 <br />
