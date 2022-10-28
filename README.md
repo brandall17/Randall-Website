@@ -16,7 +16,7 @@
 <p style="text-align: center;"></p>
 <blockquote>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;"> 
-<h2> <strong>Ben Randall Highlights</strong></span></h2><br />
+<h2> <strong>Barstool Career</strong></span></h2><br />
 <br> <em>Basketball History</em><br />
 <br />
 <br />
