@@ -20,7 +20,7 @@
 <br> <em>Basketball History</em><br />
 <br />
 <br />
-Starting in the seventh grade, I tried out for basketball. I didn't make it. It gave me the motivation to put in the time and effort to consistently practice basketball every day. Come eigth grade, I made the team and had a great season. I then had a successful career in highschool that you can see <a href= https://youtu.be/nj3RXna-2Ng">. I was very close to playing college basketball, I then decided to pursue academics and come to UW Madison! I now play on the club basketball team here at Wisconsin and run Badger Barstool.
+Starting in the seventh grade, I tried out for basketball. I didn't make it. It gave me the motivation to put in the time and effort to consistently practice basketball every day. Come eigth grade, I made the team and had a great season. I then had a successful career in highschool that you can see <a href= https://youtu.be/nj3RXna-2Ng"> </a>. I was very close to playing college basketball, I then decided to pursue academics and come to UW Madison! I now play on the club basketball team here at Wisconsin and run Badger Barstool.
 Check out <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/About/README.md"> the about us branch </a>if you haven&#39;t already, and don&#39;t forget to consider signing up to <a href= "https://github.com/alexiskintzele/The-Giving-Tree/blob/deliver/README.md"> help deliver</a> if you like helping the community!</span></span><br />
 <br />
 <br />
