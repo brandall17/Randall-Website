@@ -20,8 +20,12 @@
 <br> <em>Barstool</em><br />
 <br />
 <br />
-Starting in the seventh grade, I tried out for basketball. I didn't make it. It gave me the motivation to put in the time and effort to consistently practice basketball every day. Come eigth grade, I made the team and had a great season. I then had a successful career in highschool that you can see <a href= https://youtu.be/nj3RXna-2Ng">here.</a> I was very close to playing college basketball, I then decided to pursue academics and come to UW Madison! I now play on the club basketball team here at Wisconsin and run Badger Barstool.
-
+Three things I've worked on and learned about since receiving my internship with Barstool:
+  <ol>
+  <li>1. Market Research</li>
+  <li>2. Digital Design</li>
+  <li>3. Internship oppotunities</li>
+  </ol>
 <br />
 <br />
 <!--[endif]--><o:p></o:p></p>
