@@ -2,7 +2,6 @@
 <html>
 </head>
 <body>
-# Randall Website
 <html>
 <head>
   <title>Randall Website</title>
