@@ -17,11 +17,11 @@
 <blockquote>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;"> 
 <h2> <strong>Ben Randall Highlights</strong></span></h2><br />
+<br> <em>Basketball History</em><br />
 <br />
-<em>Basketball History</em><br />
 <br />
-<br />
-The Giving Tree is a service event that the Catholic Parish of Saint Pius X Church in Granger, Indiana hosts every year. The event is put on for children whos parents can't afford to buy them Christmas gifts. In light of the holidays, parishioners are asked to volunteer and sign up to help our service make Christmas a beautiful time for the children. Check out <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/About/README.md"> the about us branch </a>if you haven&#39;t already, and don&#39;t forget to consider signing up to <a href= "https://github.com/alexiskintzele/The-Giving-Tree/blob/deliver/README.md"> help deliver</a> if you like helping the community!</span></span><br />
+Starting in the seventh grade, I tried out for basketball. I didn't make it. It gave me the motivation to put in the time and effort to consistently practice basketball every day. Come eigth grade, I made the team and had a great season. I then had a successful career in highschool. I was very close to playing college basketball, I then decided to pursue academics and come to UW Madison! I now play on the club basketball team here at Wisconsin and run Badger Barstool.
+Check out <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/About/README.md"> the about us branch </a>if you haven&#39;t already, and don&#39;t forget to consider signing up to <a href= "https://github.com/alexiskintzele/The-Giving-Tree/blob/deliver/README.md"> help deliver</a> if you like helping the community!</span></span><br />
 <br />
 <br />
 <!--[endif]--><o:p></o:p></p>
