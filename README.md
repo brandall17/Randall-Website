@@ -2,7 +2,8 @@
 # Randall Website
 <html>
 <head>
-  <title>Barstool Career</title>
+  <h1>  <title>Barstool Career</title> </h1>
+  <h2> Lets dive into my internship! </h2>
 <link href="StyleSheet.css" rel="stylesheet"> 
 </head>
 <body>
@@ -17,7 +18,6 @@
 <blockquote>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;"> 
 <h2> <strong>Barstool Career</strong></span></h2><br />
-<br> <em>Barstool</em><br />
 <br> I have a strong interest in digital marketing. An older man in my fraternity had previously owned the account and in July 2022, I reached out to him via Instagram messaging. This proceeded with a phone call and he thought I was a good fit for the job.<br />
 <br />
 Three things I've worked on and learned about since receiving my internship with Barstool:
