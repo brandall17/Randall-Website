@@ -18,7 +18,7 @@
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;"> 
 <h2> <strong>Barstool Career</strong></span></h2><br />
 <br> <em>Barstool</em><br />
-<br />
+<br> .<br />
 <br />
 Three things I've worked on and learned about since receiving my internship with Barstool:
   <ol>
