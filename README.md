@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-# Randall Website
 <html>
 <head>
   <title>Randall Website</title>
