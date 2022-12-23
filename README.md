@@ -7,7 +7,7 @@
 <body>
 <p></p>
  <nav>
-  <a href="https://github.com/brandall17/Randall-Website/blob/main.html/README.md">AboutMe</a> |
+  <a href="https://github.com/brandall17/Randall-Website/blob/main.html/README.md">About Me</a> |
   <a href="https://github.com/brandall17/Randall-Website/blob/barstool.html/README.md">Barstool</a> |
   <a href="https://github.com/brandall17/Randall-Website/blob/basketball.html/README.md">Basketball</a> |
 </nav>
