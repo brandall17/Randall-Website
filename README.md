@@ -10,9 +10,9 @@
 <body>
 <p></p>
  <nav>
-  <a href="https://github.com/brandall17/Randall-Website/blob/main/README.md">About Me</a> |
-  <a href="https://github.com/brandall17/Randall-Website/blob/barstool/README.md">Barstool</a> |
-  <a href="https://github.com/brandall17/Randall-Website/blob/basketball/README.md">Basketball</a> |
+  <a href="https://github.com/brandall17/Randall-Website/blob/main/README.md">AboutMe.html</a> |
+  <a href="https://github.com/brandall17/Randall-Website/blob/barstool/README.md">Barstool.html</a> |
+  <a href="https://github.com/brandall17/Randall-Website/blob/basketball/README.md">Basketball.html</a> |
 </nav>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="New!" id="_x0000_i1025" src="new5.gif" /></span></span><strong><span style="font-size:36px;"><span style="font-family: "Lucida Console", "Courier New", monospace;"></span></span></strong></p>
 <p style="text-align: center;"></p>
